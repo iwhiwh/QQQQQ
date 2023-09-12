@@ -4,7 +4,7 @@ then
   git clone https://github.com/iwhiwh/QQQQQ /QQQQQ
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
-  git clone $UPSTREAM_REPO /Auto-search-tamil-bot
+  git clone $UPSTREAM_REPO /QQQQQ
 fi
 cd /QQQQQ
 pip3 install -U -r requirements.txt
