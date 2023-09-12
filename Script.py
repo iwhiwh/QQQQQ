@@ -8,7 +8,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ : {}</b>
 <b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/Master_Jiraya>🄼𝗮𝘀𝘁𝗲𝗿 𝗝𝗶𝗿𝗮𝘆𝗮</a></b>
-<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/The_Happy_Hour>The Happy Hour</a></b>
+<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/The_Happy_Hour_Hindi>The Happy Hour</a></b>
 <b>✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ2.0.62</b>"""
 
     SOURCE_TXT = """Nai duga"""
