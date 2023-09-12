@@ -4,7 +4,7 @@ import re
 import ast
 import math
 import random
-import pytz
+import pytz,  IS_STREAM
 from datetime import datetime, timedelta, date, time
 lock = asyncio.Lock()
 
